@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="C:\Users\monke\Desktop\SHALAA HTML\BOOKSUMMARY.CSS">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="detailed-view-bg-container justify-content-center">
+     
+      <div class="detailed-view-card-container">
+           <h1 class="detailed-view-heading">BOOK SUMMARY</h1>
+        <div>
+            <img src="https://rukminim2.flixcart.com/image/416/416/xif0q/book/u/m/j/as-a-man-thinketh-original-imagmxb8venvhgfq.jpeg?q=70&crop=false" class="img justify-content-center"/>
+        </div>
+        <div class="detailed-view-card-text-container">
+          <h1 class="detailed-view-card-heading">As a Man Thinketh</h1>
+          <p class="detailed-view-card-description">
+          As a Man Thinketh is a self-help[1] book by James Allen,
+          published in 1903. It was described by Allen as "... [dealing] 
+          with the power of thought, and particularly with the use and 
+          application of thought to happy and beautiful issues. I have tried
+          to make the book simple, so that all can easily grasp and follow its 
+          teaching, 
+          and put into practice the methods which it advises.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

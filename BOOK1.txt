@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="C:\Users\monke\Desktop\SHALAA HTML\BOOKSUMMARY.CSS">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="detailed-view-bg-container justify-content-center">
+      <h1 class="detailed-view-heading">BOOKSUMMARY</h1>
+      <div class="detailed-view-card-container">
+        <div>
+            <img src="https://www.dymocks.com.au/Pages/ImageHandler.ashx?q=9781398808744&w=&h=570" class="img justify-content-center"/>
+        </div>
+        <div class="detailed-view-card-text-container">
+          <h1 class="detailed-view-card-heading">BOOK OF FIVE RING'S</h1>
+          <p class="detailed-view-card-description">
+           The Book of Five Rings (五輪書, Go Rin no Sho) is a text on kenjutsu 
+           and the martial arts in general, written by the Japanese swordsman 
+           Miyamoto Musashi around 1645. Many translations have been made,
+           and it has garnered broad attention in East Asia and throughout 
+           the world. For instance, some foreign business leaders find its 
+           discussion of conflict to be relevant to their work. The modern-day Hyōhō 
+           Niten Ichi-ryū employs it as a manual of technique and philosophy.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
